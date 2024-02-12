@@ -1,0 +1,100 @@
+element.style {
+}
+#navbar.nav-flex.layout3.nav-bluebeacon #nav-belt #nav-logo .nav-logo-link, #navbar.nav-flex.layout3.nav-fixed.nav-bluebeacon #nav-belt #nav-logo .nav-logo-link {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    position: static;
+    float: none;
+    -webkit-flex-shrink: 0;
+    -moz-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    text-decoration: none;
+    padding: 1px 8px 0 6px;
+    margin: 1px;
+}
+#navbar.layout2.bold-focus-hover #nav-logo .nav-logo-link {
+    height: 50px;
+    width: 100%;
+}
+#nav-logo .nav-logo-link {
+    clear: both;
+    display: inline-block;
+    cursor: pointer;
+}
+#navbar * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+a, a:link, a:visited {
+    text-decoration: none;
+    color: #007185;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#nav-logo {
+    position: relative;
+    float: left;
+    line-height: 0;
+    height: 100%;
+    padding: 13px 17px 0 27px;
+}
+#nav-belt, #navbar .nav-belt {
+    position: relative;
+    width: 100%;
+    font-size: 14px;
+    z-index: 5;
+}
+#navbar {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 198;
+    font-family: inherit;
+    font-size: 12px;
+    line-height: 1em;
+    display: block;
+    zoom: 1;
+    min-width: 1000px;
+}
+.a-ember body {
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+body {
+    color: #0F1111;
+}
+body {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Arial,sans-serif;
+}
+:root {
+    --animation-length: 12s;
+    --animation-delay: 1s;
+    --animation-timing: 0.5;
+}
+:root {
+    --animation-length: 12s;
+    --animation-delay: 1s;
+    --animation-timing: 0.5;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
